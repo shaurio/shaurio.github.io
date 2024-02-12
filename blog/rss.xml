@@ -24,7 +24,8 @@
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[This is an extra page, maybe I'll use it for something later.]]></description>
             <content:encoded><![CDATA[<p>This is an extra page, maybe I'll use it for something later.</p>
-<p>I love my daddy</p>]]></content:encoded>
+<p>I love my <code> daddy </code></p>
+<details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary>Click me!</summary><div><div class="collapsibleContent_i85q"><div><div>I don't know what this is</div><br><details class="details_lb9f alert alert--info details_b_Ee" data-collapsed="true"><summary><p>What?...</p></summary><div><div class="collapsibleContent_i85q"><div>Hello!</div></div></div></details></div></div></div></details>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[I dont know]]></title>
